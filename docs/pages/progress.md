@@ -4,7 +4,7 @@
 
 ## Usage
 
-To apply this component, add the `.uk-progress` class to a `<progress>` element.
+To apply this component add the `.uk-progress` class to a `<progress>` element.
 
 ```html
 <progress class="uk-progress" value="" max=""></progress>
